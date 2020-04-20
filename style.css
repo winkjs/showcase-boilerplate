@@ -41,12 +41,13 @@ a:hover {
   font-weight: bold;
   color: #fff;
   font-size: 30px;
+  margin-top: 7px;
 }
 
-.navbar .navbar-brand {
-  font-family: 'winkjs';
-  letter-spacing: 0.4rem;
-  font-weight: 100;
+.navbar-brand img {
+  height: 24px;
+  float: left;
+  margin-right: 10px;
 }
 
 main {
